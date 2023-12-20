@@ -6,8 +6,6 @@
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
 </ul>
 
-<p><em>I also have a great interest in User Experience Design and its interdisciplinarity with Artificial Intelligence.</em></p>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/johnny-cleiton-8497b0254/" alt="linkedin" target="_blank">
