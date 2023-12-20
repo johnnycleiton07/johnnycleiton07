@@ -1,10 +1,12 @@
 <h2>About me:</h2>
-<p><em>Hello, my name is Johnny and I'm currently focused on improving my skills as a Front-end developer. I also have a great interest in User Experience Design and its interdisciplinarity with Artificial Intelligence.</em></p>
+<p><em>Hello, my name is Johnny and I'm currently focused on improving my skills as a Front-end developer.</em></p>
 
 <ul>
   <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL<a/></em></li>
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
 </ul>
+
+<p><em>I also have a great interest in User Experience Design and its interdisciplinarity with Artificial Intelligence.</em></p>
 
 
 <div align="center">
@@ -22,7 +24,7 @@
 <h2>Technologies and Tools:</h2>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="assets/anime-cat.gif">
+    <img align="left" height="200" alt="coding-time" src="assets/anime-cat.gif">
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,css,html,react,figma,ps,ai,vscode,github,git,mysql,py,processing,latex&perline=7"/>
