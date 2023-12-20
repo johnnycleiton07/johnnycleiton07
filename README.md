@@ -1,21 +1,32 @@
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=johnnycleiton07&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnycleiton07&layout=compact&langs_count=16&theme=rose_pine"/>
-</div>
-<br>
+<h2>About me:</h2>
+<p><em>Hello, my name is Johnny and I'm currently focused on improving my skills as a Front-end developer. I also have a great interest in User Experience Design and its interdisciplinarity with Artificial Intelligence.</em></p>
 
+<ul>
+  <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL<a/></em></li>
+  <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
+</ul>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/johnny-cleiton-8497b0254/" alt="linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.behance.net/johnnycleiton/projects" alt="behance" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://dribbble.com/" alt="dribbble" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a href="https://medium.com/@johnnycleiton" alt="medium" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</div>
+
+
+<h2>Technologies and Tools:</h2>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="assets/anime-cat.gif">
-    <h1 align="center">Technologies & Tools</h1>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <h2 align="center">Currently learning:</h2>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,css,html,react,figma,ps,ai,vscode,github,git,mysql,py,processing,latex&perline=7"/>
+      </a>
+    </p>
   </div>
 </div>
