@@ -24,7 +24,7 @@
 <div align="center">
   <img align="right" height="220" alt="coding-time" src="assets/anime-cat.gif">
   <p align="left">
-    <a href="https://skillicons.dev">
+    <a href="https://github.com/johnnycleiton07">
       <img src="https://skillicons.dev/icons?i=js,css,html,react,figma,ps,ai,vscode,github,git,mysql,py,processing,latex&perline=7"/>
     </a>
   </p>
