@@ -2,6 +2,7 @@
 <p><em>Hello, my name is Johnny and I'm currently focused on improving my skills as a Front-end developer.</em></p>
 
 <ul>
+  <li><em>Master's student in Applied Informatics at <a href="https://www.ppgia.ufrpe.br/">UFRPE<a/></em></li>
   <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL<a/></em></li>
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
 </ul>
