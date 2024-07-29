@@ -1,10 +1,10 @@
 <h2>About me:</h2>
-<p>Hello! I'm Johnny, focused on improving my skills as an <b>Interaction Designer</b> and <b>Frontend Developer</b>. I have great skills for UI/UX Design methods. I'm also interested in Artificial Intelligence, especially Large Language Models, Computer Vision, Machine Learning and Generative AI.</p>
+<p>Hello! I'm Johnny, focused on improving my skills as an <b>Interaction Designer</b>. I am currently studying for a master's degree in Media and Interaction, focusing on dark design patterns in digital products and social robots. I am also interested in Artificial Intelligence, especially Large Language Models, Computer Vision, Machine Learning and Deep Learning.</p>
 
 <ul>
-  <li><em>Master's student in Applied Informatics at <a href="https://www.ppgia.ufrpe.br/">UFRPE<a/></em></li>
   <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL<a/></em></li>
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
+  <li><em>Master's student in Applied Informatics at <a href="https://www.ppgia.ufrpe.br/">UFRPE<a/></em></li>
 </ul>
 
 
