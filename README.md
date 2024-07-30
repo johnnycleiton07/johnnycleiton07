@@ -1,5 +1,8 @@
 <h2>About me:</h2>
-<p>Hello! I'm Johnny, focused on improving my skills as an <b>Interaction Designer</b>. I am currently studying for a master's degree in Media and Interaction, focusing on dark design patterns in digital products and social robots. I am also interested in Artificial Intelligence, especially Large Language Models, Computer Vision, Machine Learning and Deep Learning.</p>
+<p><em>Hello, my name is Johnny. I have a Bachelor's degree in Computer Science and am currently pursuing a Master's degree in the same field, specifically in Human-Computer Interaction. I was also a resident in the second class of Robotics and Artificial Intelligence at the Center of Informatics at UFPE, where I acquired and honed skills in software development and AI algorithms.</em></p>
+
+<p><em>I am a great enthusiast of Interaction Design and User Experience, and I enjoy linking these areas with Artificial Intelligence.</em></p>
+
 
 <ul>
   <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL<a/></em></li>
