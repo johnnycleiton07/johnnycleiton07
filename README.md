@@ -14,7 +14,7 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
-  <img src="https://img.shields.io/badge/UI/UX%20Design-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
+  <img src="https://img.shields.io/badge/UX/UI%20Design-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Human%20Robot--Interaction-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Deceptive%20Patterns-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Web%20Development-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
