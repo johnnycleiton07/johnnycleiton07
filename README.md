@@ -6,6 +6,7 @@
 <ul>
   <li><em>Bachelor of Computer Science from <a href="https://ufal.br/">UFAL</a></em></li>
   <li><em>Specialist in Robotics and Artificial Intelligence from <a href="https://residenciarobotica.cin.ufpe.br/">CIn UFPE</a></em></li>
+  <li><em>(In progress) Master's degree in Computer Science from <a href="https://secpos.cin.ufpe.br/">CIn UFPE</em></li>
 </ul>
 
 <br>
@@ -15,7 +16,9 @@
 
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/UX/UI%20Design-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
+  <img src="https://img.shields.io/badge/Human--Computer%20Interaction-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Human--Robot%20Interaction-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
+  <img src="https://img.shields.io/badge/Social%20Robots-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Deceptive%20Patterns-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Web%20Development-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
   <img src="https://img.shields.io/badge/Computer%20Vision-%20?style=for-the-badge&labelColor=ffffff&color=cccccc">
