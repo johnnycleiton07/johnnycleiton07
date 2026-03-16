@@ -38,9 +38,6 @@
   <a href="https://www.behance.net/johnnycleiton/projects" alt="behance" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&labelColor=ffffff&color=0054F7&logoColor=ffffff&logo=">
   </a>
-  <a href="https://www.pinterest.com/seuusuario" alt="pinterest" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&labelColor=ffffff&color=E60023&logoColor=ffffff&logo=">
-  </a>
 </div>
 
 
